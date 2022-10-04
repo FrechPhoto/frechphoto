@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: black;
+    color:white;
+    font-family: garamond;
+}
+h1 {
+    font-family: georgia;
+}
+#homepage-img{
+    height:250px;
+    width:auto;
+}
